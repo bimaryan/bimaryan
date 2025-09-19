@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Bima Ryan Alfarizi]!
 
 Welcome to my GitHub profile! I'm a passionate Web Development who loves to work on Nextjs. I enjoy solving complex problems and building innovative solutions.
 
