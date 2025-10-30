@@ -4,13 +4,6 @@ Welcome to my GitHub profile! I'm a passionate Web Development who loves to work
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Current Project]**
-- 🌱 I’m currently learning **[Technologies/Skills You're Learning]**
-- 👯 I’m looking to collaborate on **[Types of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Email or Social Media]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
-
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -24,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate Web Development who loves to work
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
