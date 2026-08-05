@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm a passionate Web Development who loves to work
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimaryan&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimaryan)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimaryan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimaryan)
 
 ## 📫 Connect with Me
 
