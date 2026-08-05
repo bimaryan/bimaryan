@@ -1,6 +1,7 @@
 <h1 align="center">👋 Halo, saya Bima Ryan Alfarizi</h1>
+
 <p align="center">
-  <em>Web Developer • D4 Rekayasa Perangkat Lunak, Politeknik Negeri Indramayu</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=560&lines=Web+Developer;D4+Rekayasa+Perangkat+Lunak+%40+Polindra;Suka+bangun+aplikasi+dari+ujung+ke+ujung" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,12 +13,16 @@
 
 ## 🚀 Tentang Saya
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/typing.gif" alt="coding animation" />
+
 Saya membangun aplikasi web dari ujung ke ujung — mulai dari desain UI/UX, frontend, backend, sampai deployment infrastruktur sendiri. Beberapa hal yang saya kerjakan belakangan ini:
 
 - 🔧 Membangun platform hosting web berbasis Laravel dengan auto-deployment (**Ryaze**)
 - 🔗 Merancang layanan pemendek URL dengan sistem keamanan tingkat lanjut (**RYZ Shortlink**)
 
 Saya suka menyelesaikan masalah teknis yang detail — dari debugging pipeline deployment sampai merancang skema database yang rapi.
+
+<br clear="right"/>
 
 ---
 
@@ -53,6 +58,7 @@ Saya suka menyelesaikan masalah teknis yang detail — dari debugging pipeline d
 | Proyek | Deskripsi |
 |---|---|
 | **[Ryaze](https://ryaze.my.id)** | Platform hosting web berbasis Laravel dengan auto-deployment (git clone, install dependency, konfigurasi Cloudflare DNS), dilengkapi web terminal, file manager, dan proxy phpMyAdmin |
+| **RYZ Shortlink** | Layanan pemendek URL dengan device fingerprinting, rate limiting, deteksi impossible travel, dan integrasi WhatsApp API (Baileys) |
 
 ---
 
